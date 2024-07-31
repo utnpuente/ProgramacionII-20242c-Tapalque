@@ -1,5 +1,5 @@
-# Laboratorio 1 - Cuatrimestre 1 - Alem
-Archivos de la materia Laboratorio I - Alem - Primer Cuatrimestre - 2024
+# Progrmaci¢n 2 - Cuatrimestre 2 - Tapalqu‚
+Archivos de la materia Programaci¢n 2 - Tapalqu‚ - Segundo Cuatrimestre - 2024
 
 ![portada](https://i.imgur.com/k8YR3UP.png)
 
