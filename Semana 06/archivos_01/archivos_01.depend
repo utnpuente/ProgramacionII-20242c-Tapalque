@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1725992519 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 06\archivos_01\articulo.cpp
+	<iostream>
+	"articulo.h"
+
+1725992531 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 06\archivos_01\articulo.h
+
+1725994457 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 06\archivos_01\main.cpp
+	<iostream>
+	<string.h>
+	<cstdio>
+	"articulo.h"
+	"menu.h"
+
+1725891767 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 06\archivos_01\menu.h
+
+1725893336 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 06\archivos_01\menu.cpp
+	<iostream>
+	"menu.h"
+
