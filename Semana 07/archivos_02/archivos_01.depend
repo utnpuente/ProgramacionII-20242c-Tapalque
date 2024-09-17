@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1725971681 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 06\archivos_01\articulo.cpp
+	<iostream>
+	"articulo.h"
+
+1725971666 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 06\archivos_01\articulo.h
+	<string>
+
+1725892315 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 06\archivos_01\menu.cpp
+	<iostream>
+	"menu.h"
+
+1725891767 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 06\archivos_01\menu.h
+
+1725972765 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 06\archivos_01\main.cpp
+	<iostream>
+	"articulo.h"
+	"menu.h"
+	<cstdio>
+
+1726567552 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 07\archivos_02\articulo.cpp
+	<iostream>
+	"articulo.h"
+
+1726567543 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 07\archivos_02\articulo.h
+	<string>
+
+1726567517 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 07\archivos_02\menu.cpp
+	<iostream>
+	"menu.h"
+
+1726567501 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 07\archivos_02\menu.h
+
+1725973259 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 07\archivos_02\main.cpp
+	<iostream>
+	"articulo.h"
+	"menu.h"
+	<cstdio>
+
+1726597384 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 07\archivos_02\articulo.cpp
+	<iostream>
+	"articulo.h"
+
+1726597307 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 07\archivos_02\articulo.h
+	<string>
+
+1726599691 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 07\archivos_02\menu.cpp
+	<iostream>
+	"menu.h"
+	"archivoArticulo.h"
+	"articulo.h"
+
+1726567501 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 07\archivos_02\menu.h
+
+1726599114 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 07\archivos_02\main.cpp
+	<iostream>
+	"articulo.h"
+	"archivoArticulo.h"
+	"menu.h"
+	<cstdio>
+
+1726599423 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 07\archivos_02\archivoarticulo.cpp
+	<iostream>
+	"archivoArticulo.h"
+	"articulo.h"
+
+1726599125 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 07\archivos_02\archivoarticulo.h
+	"articulo.h"
+
