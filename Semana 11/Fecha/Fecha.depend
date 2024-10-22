@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1729015781 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 11\fecha\fecha.cpp
+	<iostream>
+	<string>
+	<ctime>
+	"Fecha.h"
+
+1729014096 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 11\fecha\fecha.h
+	<string>
+
+1729015812 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 11\fecha\main.cpp
+	<iostream>
+	"Fecha.h"
+

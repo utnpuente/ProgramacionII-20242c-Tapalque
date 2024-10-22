@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1729018681 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 11\herencia\main.cpp
+	<iostream>
+	"Asalariado.h"
+	"PorHora.h"
+	"Empleado.h"
+
+1729018753 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 11\herencia\asalariado.cpp
+	<iostream>
+	<string>
+	"Asalariado.h"
+	"Empleado.h"
+
+1729018720 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 11\herencia\asalariado.h
+	"Empleado.h"
+	<string>
+
+1729018488 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 11\herencia\empleado.cpp
+	<iostream>
+	<string>
+	"Empleado.h"
+
+1729018802 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 11\herencia\empleado.h
+	<string>
+
+1729018322 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 11\herencia\porhora.cpp
+	<iostream>
+	"Empleado.h"
+	"PorHora.h"
+	<string>
+
+1729018325 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 11\herencia\porhora.h
+	"Empleado.h"
+	<string>
+
