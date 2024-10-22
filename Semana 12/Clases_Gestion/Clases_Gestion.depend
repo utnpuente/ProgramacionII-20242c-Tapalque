@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1729622566 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\main.cpp
+	<iostream>
+	"PrincipalMenu.h"
+	"ArticuloMenu.h"
+
+1729623325 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\principalmenu.h
+	"ArticuloMenu.h"
+	"VentaMenu.h"
+	"Menu.h"
+
+1729623333 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\principalmenu.cpp
+	<iostream>
+	"PrincipalMenu.h"
+
+1729622997 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\articulomenu.cpp
+	<iostream>
+	"ArticuloMenu.h"
+
+1729623425 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\articulomenu.h
+	"Menu.h"
+
+1729622830 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\ventamenu.h
+	"Menu.h"
+
+1729622970 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\ventamenu.cpp
+	<iostream>
+	"VentaMenu.h"
+
+1729623245 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\menu.h
+	<iostream>
+
+1729622795 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\menu.cpp
+	<iostream>
+	"Menu.h"
+
